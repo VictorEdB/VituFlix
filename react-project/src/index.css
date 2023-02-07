@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Oswald";
+}
+
+body{
+  background-color: #cbe4ea; 
+  color: rgb(3, 1, 1);
+}
+
+ul{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: #FFF;
+  opacity: 0.7;
+  transition: 0.3s;
+}
+
+a:hover{
+  opacity: 1;
+}
+
+p{
+  color: #18181a;
+}
+
+
+
